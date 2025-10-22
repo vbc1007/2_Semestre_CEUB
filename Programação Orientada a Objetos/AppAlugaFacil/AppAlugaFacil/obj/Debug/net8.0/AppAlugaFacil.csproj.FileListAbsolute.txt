@@ -1,0 +1,14 @@
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\AppAlugaFacil\AppAlugaFacil\bin\Debug\net8.0\AppAlugaFacil.exe
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\AppAlugaFacil\AppAlugaFacil\bin\Debug\net8.0\AppAlugaFacil.deps.json
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\AppAlugaFacil\AppAlugaFacil\bin\Debug\net8.0\AppAlugaFacil.runtimeconfig.json
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\AppAlugaFacil\AppAlugaFacil\bin\Debug\net8.0\AppAlugaFacil.dll
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\AppAlugaFacil\AppAlugaFacil\bin\Debug\net8.0\AppAlugaFacil.pdb
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\AppAlugaFacil\AppAlugaFacil\obj\Debug\net8.0\AppAlugaFacil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\AppAlugaFacil\AppAlugaFacil\obj\Debug\net8.0\AppAlugaFacil.AssemblyInfoInputs.cache
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\AppAlugaFacil\AppAlugaFacil\obj\Debug\net8.0\AppAlugaFacil.AssemblyInfo.cs
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\AppAlugaFacil\AppAlugaFacil\obj\Debug\net8.0\AppAlugaFacil.csproj.CoreCompileInputs.cache
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\AppAlugaFacil\AppAlugaFacil\obj\Debug\net8.0\AppAlugaFacil.dll
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\AppAlugaFacil\AppAlugaFacil\obj\Debug\net8.0\refint\AppAlugaFacil.dll
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\AppAlugaFacil\AppAlugaFacil\obj\Debug\net8.0\AppAlugaFacil.pdb
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\AppAlugaFacil\AppAlugaFacil\obj\Debug\net8.0\AppAlugaFacil.genruntimeconfig.cache
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\AppAlugaFacil\AppAlugaFacil\obj\Debug\net8.0\ref\AppAlugaFacil.dll

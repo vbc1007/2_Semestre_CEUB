@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo 9 - HTML</title>
+</head>
+
+<body>
+    <h1>Exemplo 9 - Uso das Tags de Imagem e Vídeo</h1>
+    <p>
+        Este exemplo mostra diferentes formas de usar as tags <code>&lt;img&gt;</code> e <code>&lt;video&gt;</code>, 
+        incluindo o uso de <code>&lt;figure&gt;></code> e <code>&lt;figcaption&gt;></code> para agrupar mídias com legendas.
+    </p>
+
+    <h2>Descrição</h2>
+    <p>
+        As tags abordadas são:
+    </p>
+    <ul>
+        <li><strong>&lt;img&gt;></strong>: Usada para inserir imagens na página.</li>
+        <li><strong>&lt;video&gt;</strong>: Usada para inserir vídeos na página.</li>
+        <li><strong>&lt;figure&gt;</strong>: Usada para agrupar mídias (imagens, vídeos, gráficos) com uma legenda.</li>
+        <li><strong>&lt;figcaption&gt;</strong>: Usada para adicionar uma legenda ao conteúdo dentro de <code>&lt;figure&gt;</code>.</li>
+    </ul>
+
+    <h2>Exemplos Práticos</h2>
+    <h3>Imagem usando os atributos img,figure e figcaption</h3>
+    <p>Uma imagem agrupada com legenda descritiva</p>
+    
+    <figure>
+        <img control width = "700" src="Chimpaze gamer.jpg" alt = "Imagem de um Chimpaze gamer">
+    </figure>
+
+    <h3>Video com Legenda usando &lt;figure&gt; e &lt;figcaption&gt;</h3>
+    <p>Exemplo do uso da tag video com legenda agrupada</p>
+
+    <figure>
+        <video controls width="600"></video>
+        <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+            <source src="https://www.w3schools.com/html/mov_bbb.ogg" type="video/ogg">
+    </figure>
+
+    <h3>Incorporação de Vídeos do YouTube usando tag &lt;iframe&gt;</h3>
+    <p>Neste exemplo vamos usar dois vídeos do YouTube lado a lado usando a tag &lt;iframe&gt;</p>
+    
+    <div>
+        <figure>
+            <iframe width="681" height="383" src="https://www.youtube.com/embed/StNj6WFsqf4?list=RDStNj6WFsqf4" title="Cartoon, Fred V, 
+            Immy Odon - All We&#39;ve Ever Known | DnB | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; 
+            clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
+            allowfullscreen></iframe>
+            
+            <figcaption>Cartoon, Fred V, Immy Odon - All We've Ever Known | DnB | NCS - Copyright Free Music</figcaption>
+        </figure>
+
+        <figure>
+            <iframe width="681" height="383" src="https://www.youtube.com/embed/DzYp5uqixz0?list=PLfP6i5T0-DkJPT4dkMAr0PwRq1m25UtoO" 
+            title="🍀 Chill Instrumental [Música Sem Copyright] &quot;Embrace&quot; by Sappheiros 🇺🇸" frameborder="0" allow="accelerometer; 
+            autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+            <figcaption>🍀 Chill Instrumental [Música Sem Copyright] "Embrace" by Sappheiros 🇺🇸</figcaption>
+        </figure>
+    </div>
+</body>
+</html>

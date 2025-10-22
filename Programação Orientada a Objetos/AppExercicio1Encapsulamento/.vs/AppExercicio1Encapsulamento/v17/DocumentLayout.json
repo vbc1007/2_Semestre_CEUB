@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CEUB\\Desktop\\CEUB\\2\u00B0 Semestre\\Programa\u00E7\u00E3o Orientada a Objetos\\AppExercicio1Encapsulamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{028CAB32-82E7-400B-9A55-904A8C7C8D87}|AppExercicio1Encapsulamento\\AppExercicio1Encapsulamento.csproj|c:\\users\\ceub\\desktop\\ceub\\2\u00B0 semestre\\programa\u00E7\u00E3o orientada a objetos\\appexercicio1encapsulamento\\appexercicio1encapsulamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{028CAB32-82E7-400B-9A55-904A8C7C8D87}|AppExercicio1Encapsulamento\\AppExercicio1Encapsulamento.csproj|solutionrelative:appexercicio1encapsulamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{028CAB32-82E7-400B-9A55-904A8C7C8D87}|AppExercicio1Encapsulamento\\AppExercicio1Encapsulamento.csproj|c:\\users\\ceub\\desktop\\ceub\\2\u00B0 semestre\\programa\u00E7\u00E3o orientada a objetos\\appexercicio1encapsulamento\\appexercicio1encapsulamento\\model\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{028CAB32-82E7-400B-9A55-904A8C7C8D87}|AppExercicio1Encapsulamento\\AppExercicio1Encapsulamento.csproj|solutionrelative:appexercicio1encapsulamento\\model\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\CEUB\\Desktop\\CEUB\\2\u00B0 Semestre\\Programa\u00E7\u00E3o Orientada a Objetos\\AppExercicio1Encapsulamento\\AppExercicio1Encapsulamento\\Model\\Funcionario.cs",
+              "RelativeDocumentMoniker": "AppExercicio1Encapsulamento\\Model\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\CEUB\\Desktop\\CEUB\\2\u00B0 Semestre\\Programa\u00E7\u00E3o Orientada a Objetos\\AppExercicio1Encapsulamento\\AppExercicio1Encapsulamento\\Model\\Funcionario.cs",
+              "RelativeToolTip": "AppExercicio1Encapsulamento\\Model\\Funcionario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T00:29:49.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CEUB\\Desktop\\CEUB\\2\u00B0 Semestre\\Programa\u00E7\u00E3o Orientada a Objetos\\AppExercicio1Encapsulamento\\AppExercicio1Encapsulamento\\Program.cs",
+              "RelativeDocumentMoniker": "AppExercicio1Encapsulamento\\Program.cs",
+              "ToolTip": "C:\\Users\\CEUB\\Desktop\\CEUB\\2\u00B0 Semestre\\Programa\u00E7\u00E3o Orientada a Objetos\\AppExercicio1Encapsulamento\\AppExercicio1Encapsulamento\\Program.cs",
+              "RelativeToolTip": "AppExercicio1Encapsulamento\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T00:28:57.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

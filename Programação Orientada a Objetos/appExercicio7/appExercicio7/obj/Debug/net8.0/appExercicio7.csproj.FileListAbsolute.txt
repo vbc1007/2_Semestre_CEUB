@@ -1,0 +1,14 @@
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio7\appExercicio7\obj\Debug\net8.0\appExercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio7\appExercicio7\obj\Debug\net8.0\appExercicio7.AssemblyInfoInputs.cache
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio7\appExercicio7\obj\Debug\net8.0\appExercicio7.AssemblyInfo.cs
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio7\appExercicio7\obj\Debug\net8.0\appExercicio7.csproj.CoreCompileInputs.cache
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio7\appExercicio7\bin\Debug\net8.0\appExercicio7.exe
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio7\appExercicio7\bin\Debug\net8.0\appExercicio7.deps.json
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio7\appExercicio7\bin\Debug\net8.0\appExercicio7.runtimeconfig.json
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio7\appExercicio7\bin\Debug\net8.0\appExercicio7.dll
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio7\appExercicio7\bin\Debug\net8.0\appExercicio7.pdb
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio7\appExercicio7\obj\Debug\net8.0\appExercicio7.dll
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio7\appExercicio7\obj\Debug\net8.0\refint\appExercicio7.dll
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio7\appExercicio7\obj\Debug\net8.0\appExercicio7.pdb
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio7\appExercicio7\obj\Debug\net8.0\appExercicio7.genruntimeconfig.cache
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio7\appExercicio7\obj\Debug\net8.0\ref\appExercicio7.dll

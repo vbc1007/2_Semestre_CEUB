@@ -1,0 +1,14 @@
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExemplo1POO\appExemplo1POO\bin\Debug\net8.0\appExemplo1POO.exe
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExemplo1POO\appExemplo1POO\bin\Debug\net8.0\appExemplo1POO.deps.json
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExemplo1POO\appExemplo1POO\bin\Debug\net8.0\appExemplo1POO.runtimeconfig.json
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExemplo1POO\appExemplo1POO\bin\Debug\net8.0\appExemplo1POO.dll
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExemplo1POO\appExemplo1POO\bin\Debug\net8.0\appExemplo1POO.pdb
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExemplo1POO\appExemplo1POO\obj\Debug\net8.0\appExemplo1POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExemplo1POO\appExemplo1POO\obj\Debug\net8.0\appExemplo1POO.AssemblyInfoInputs.cache
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExemplo1POO\appExemplo1POO\obj\Debug\net8.0\appExemplo1POO.AssemblyInfo.cs
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExemplo1POO\appExemplo1POO\obj\Debug\net8.0\appExemplo1POO.csproj.CoreCompileInputs.cache
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExemplo1POO\appExemplo1POO\obj\Debug\net8.0\appExemplo1POO.dll
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExemplo1POO\appExemplo1POO\obj\Debug\net8.0\refint\appExemplo1POO.dll
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExemplo1POO\appExemplo1POO\obj\Debug\net8.0\appExemplo1POO.pdb
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExemplo1POO\appExemplo1POO\obj\Debug\net8.0\appExemplo1POO.genruntimeconfig.cache
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExemplo1POO\appExemplo1POO\obj\Debug\net8.0\ref\appExemplo1POO.dll

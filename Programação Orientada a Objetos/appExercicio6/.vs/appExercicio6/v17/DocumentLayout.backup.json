@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CEUB\\Desktop\\CEUB\\2\u00B0 Semestre\\Programa\u00E7\u00E3o Orientada a Objetos\\appExercicio6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D130AD-D826-49B1-B086-51D49A80B90D}|appExercicio6\\appExercicio6.csproj|c:\\users\\ceub\\desktop\\ceub\\2\u00B0 semestre\\programa\u00E7\u00E3o orientada a objetos\\appexercicio6\\appexercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D130AD-D826-49B1-B086-51D49A80B90D}|appExercicio6\\appExercicio6.csproj|solutionrelative:appexercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CEUB\\Desktop\\CEUB\\2\u00B0 Semestre\\Programa\u00E7\u00E3o Orientada a Objetos\\appExercicio6\\appExercicio6\\Program.cs",
+              "RelativeDocumentMoniker": "appExercicio6\\Program.cs",
+              "ToolTip": "C:\\Users\\CEUB\\Desktop\\CEUB\\2\u00B0 Semestre\\Programa\u00E7\u00E3o Orientada a Objetos\\appExercicio6\\appExercicio6\\Program.cs",
+              "RelativeToolTip": "appExercicio6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T23:35:20.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

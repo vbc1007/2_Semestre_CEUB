@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CEUB\\Desktop\\CEUB\\2\u00B0 Semestre\\Programa\u00E7\u00E3o Orientada a Objetos\\appExercicioVetores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D01B5BA4-97DC-4460-9314-845C82A0FDAA}|appExercicio4\\appExercicio4.csproj|c:\\users\\ceub\\desktop\\ceub\\2\u00B0 semestre\\programa\u00E7\u00E3o orientada a objetos\\appexerciciovetores\\appexercicio4\\programex4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01B5BA4-97DC-4460-9314-845C82A0FDAA}|appExercicio4\\appExercicio4.csproj|solutionrelative:appexercicio4\\programex4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProgramEx4.cs",
+              "DocumentMoniker": "C:\\Users\\CEUB\\Desktop\\CEUB\\2\u00B0 Semestre\\Programa\u00E7\u00E3o Orientada a Objetos\\appExercicioVetores\\appExercicio4\\ProgramEx4.cs",
+              "RelativeDocumentMoniker": "appExercicio4\\ProgramEx4.cs",
+              "ToolTip": "C:\\Users\\CEUB\\Desktop\\CEUB\\2\u00B0 Semestre\\Programa\u00E7\u00E3o Orientada a Objetos\\appExercicioVetores\\appExercicio4\\ProgramEx4.cs",
+              "RelativeToolTip": "appExercicio4\\ProgramEx4.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T23:48:19.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

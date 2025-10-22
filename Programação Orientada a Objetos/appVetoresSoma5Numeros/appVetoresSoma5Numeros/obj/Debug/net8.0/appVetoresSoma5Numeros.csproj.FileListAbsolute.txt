@@ -1,0 +1,14 @@
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appVetoresSoma5Numeros\appVetoresSoma5Numeros\bin\Debug\net8.0\appVetoresSoma5Numeros.exe
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appVetoresSoma5Numeros\appVetoresSoma5Numeros\bin\Debug\net8.0\appVetoresSoma5Numeros.deps.json
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appVetoresSoma5Numeros\appVetoresSoma5Numeros\bin\Debug\net8.0\appVetoresSoma5Numeros.runtimeconfig.json
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appVetoresSoma5Numeros\appVetoresSoma5Numeros\bin\Debug\net8.0\appVetoresSoma5Numeros.dll
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appVetoresSoma5Numeros\appVetoresSoma5Numeros\bin\Debug\net8.0\appVetoresSoma5Numeros.pdb
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appVetoresSoma5Numeros\appVetoresSoma5Numeros\obj\Debug\net8.0\appVetoresSoma5Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appVetoresSoma5Numeros\appVetoresSoma5Numeros\obj\Debug\net8.0\appVetoresSoma5Numeros.AssemblyInfoInputs.cache
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appVetoresSoma5Numeros\appVetoresSoma5Numeros\obj\Debug\net8.0\appVetoresSoma5Numeros.AssemblyInfo.cs
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appVetoresSoma5Numeros\appVetoresSoma5Numeros\obj\Debug\net8.0\appVetoresSoma5Numeros.csproj.CoreCompileInputs.cache
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appVetoresSoma5Numeros\appVetoresSoma5Numeros\obj\Debug\net8.0\appVetoresSoma5Numeros.dll
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appVetoresSoma5Numeros\appVetoresSoma5Numeros\obj\Debug\net8.0\refint\appVetoresSoma5Numeros.dll
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appVetoresSoma5Numeros\appVetoresSoma5Numeros\obj\Debug\net8.0\appVetoresSoma5Numeros.pdb
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appVetoresSoma5Numeros\appVetoresSoma5Numeros\obj\Debug\net8.0\appVetoresSoma5Numeros.genruntimeconfig.cache
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appVetoresSoma5Numeros\appVetoresSoma5Numeros\obj\Debug\net8.0\ref\appVetoresSoma5Numeros.dll

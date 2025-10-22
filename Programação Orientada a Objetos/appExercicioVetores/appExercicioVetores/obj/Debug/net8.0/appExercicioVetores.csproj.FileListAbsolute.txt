@@ -1,0 +1,14 @@
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicioVetores\appExercicioVetores\bin\Debug\net8.0\appExercicioVetores.exe
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicioVetores\appExercicioVetores\bin\Debug\net8.0\appExercicioVetores.deps.json
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicioVetores\appExercicioVetores\bin\Debug\net8.0\appExercicioVetores.runtimeconfig.json
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicioVetores\appExercicioVetores\bin\Debug\net8.0\appExercicioVetores.dll
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicioVetores\appExercicioVetores\bin\Debug\net8.0\appExercicioVetores.pdb
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicioVetores\appExercicioVetores\obj\Debug\net8.0\appExercicioVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicioVetores\appExercicioVetores\obj\Debug\net8.0\appExercicioVetores.AssemblyInfoInputs.cache
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicioVetores\appExercicioVetores\obj\Debug\net8.0\appExercicioVetores.AssemblyInfo.cs
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicioVetores\appExercicioVetores\obj\Debug\net8.0\appExercicioVetores.csproj.CoreCompileInputs.cache
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicioVetores\appExercicioVetores\obj\Debug\net8.0\appExercicioVetores.dll
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicioVetores\appExercicioVetores\obj\Debug\net8.0\refint\appExercicioVetores.dll
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicioVetores\appExercicioVetores\obj\Debug\net8.0\appExercicioVetores.pdb
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicioVetores\appExercicioVetores\obj\Debug\net8.0\appExercicioVetores.genruntimeconfig.cache
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicioVetores\appExercicioVetores\obj\Debug\net8.0\ref\appExercicioVetores.dll

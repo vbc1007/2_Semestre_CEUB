@@ -1,0 +1,4 @@
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\AppExemploEncapsulamento\AppExemploEncapsulamento\obj\Debug\net8.0\AppExemploEncapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\AppExemploEncapsulamento\AppExemploEncapsulamento\obj\Debug\net8.0\AppExemploEncapsulamento.AssemblyInfoInputs.cache
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\AppExemploEncapsulamento\AppExemploEncapsulamento\obj\Debug\net8.0\AppExemploEncapsulamento.AssemblyInfo.cs
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\AppExemploEncapsulamento\AppExemploEncapsulamento\obj\Debug\net8.0\AppExemploEncapsulamento.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\CEUB\source\repos\appSaudacao\appSaudacao\bin\Debug\net8.0\appSaudacao.exe
+C:\Users\CEUB\source\repos\appSaudacao\appSaudacao\bin\Debug\net8.0\appSaudacao.deps.json
+C:\Users\CEUB\source\repos\appSaudacao\appSaudacao\bin\Debug\net8.0\appSaudacao.runtimeconfig.json
+C:\Users\CEUB\source\repos\appSaudacao\appSaudacao\bin\Debug\net8.0\appSaudacao.dll
+C:\Users\CEUB\source\repos\appSaudacao\appSaudacao\bin\Debug\net8.0\appSaudacao.pdb
+C:\Users\CEUB\source\repos\appSaudacao\appSaudacao\obj\Debug\net8.0\appSaudacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEUB\source\repos\appSaudacao\appSaudacao\obj\Debug\net8.0\appSaudacao.AssemblyInfoInputs.cache
+C:\Users\CEUB\source\repos\appSaudacao\appSaudacao\obj\Debug\net8.0\appSaudacao.AssemblyInfo.cs
+C:\Users\CEUB\source\repos\appSaudacao\appSaudacao\obj\Debug\net8.0\appSaudacao.csproj.CoreCompileInputs.cache
+C:\Users\CEUB\source\repos\appSaudacao\appSaudacao\obj\Debug\net8.0\appSaudacao.dll
+C:\Users\CEUB\source\repos\appSaudacao\appSaudacao\obj\Debug\net8.0\refint\appSaudacao.dll
+C:\Users\CEUB\source\repos\appSaudacao\appSaudacao\obj\Debug\net8.0\appSaudacao.pdb
+C:\Users\CEUB\source\repos\appSaudacao\appSaudacao\obj\Debug\net8.0\appSaudacao.genruntimeconfig.cache
+C:\Users\CEUB\source\repos\appSaudacao\appSaudacao\obj\Debug\net8.0\ref\appSaudacao.dll

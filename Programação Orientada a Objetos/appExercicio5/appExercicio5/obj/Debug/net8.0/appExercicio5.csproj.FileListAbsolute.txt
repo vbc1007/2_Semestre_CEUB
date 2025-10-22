@@ -1,0 +1,14 @@
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio5\appExercicio5\bin\Debug\net8.0\appExercicio5.exe
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio5\appExercicio5\bin\Debug\net8.0\appExercicio5.deps.json
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio5\appExercicio5\bin\Debug\net8.0\appExercicio5.runtimeconfig.json
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio5\appExercicio5\bin\Debug\net8.0\appExercicio5.dll
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio5\appExercicio5\bin\Debug\net8.0\appExercicio5.pdb
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio5\appExercicio5\obj\Debug\net8.0\appExercicio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio5\appExercicio5\obj\Debug\net8.0\appExercicio5.AssemblyInfoInputs.cache
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio5\appExercicio5\obj\Debug\net8.0\appExercicio5.AssemblyInfo.cs
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio5\appExercicio5\obj\Debug\net8.0\appExercicio5.csproj.CoreCompileInputs.cache
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio5\appExercicio5\obj\Debug\net8.0\appExercicio5.dll
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio5\appExercicio5\obj\Debug\net8.0\refint\appExercicio5.dll
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio5\appExercicio5\obj\Debug\net8.0\appExercicio5.pdb
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio5\appExercicio5\obj\Debug\net8.0\appExercicio5.genruntimeconfig.cache
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio5\appExercicio5\obj\Debug\net8.0\ref\appExercicio5.dll

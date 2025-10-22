@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CEUB\\Desktop\\CEUB\\2\u00B0 Semestre\\Programa\u00E7\u00E3o Orientada a Objetos\\appExemplo1POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD62BAE-15A7-4E93-975D-60BF42E9018D}|appExemplo1POO\\appExemplo1POO.csproj|c:\\users\\ceub\\desktop\\ceub\\2\u00B0 semestre\\programa\u00E7\u00E3o orientada a objetos\\appexemplo1poo\\appexemplo1poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD62BAE-15A7-4E93-975D-60BF42E9018D}|appExemplo1POO\\appExemplo1POO.csproj|solutionrelative:appexemplo1poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD62BAE-15A7-4E93-975D-60BF42E9018D}|appExemplo1POO\\appExemplo1POO.csproj|c:\\users\\ceub\\desktop\\ceub\\2\u00B0 semestre\\programa\u00E7\u00E3o orientada a objetos\\appexemplo1poo\\appexemplo1poo\\model\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD62BAE-15A7-4E93-975D-60BF42E9018D}|appExemplo1POO\\appExemplo1POO.csproj|solutionrelative:appexemplo1poo\\model\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\CEUB\\Desktop\\CEUB\\2\u00B0 Semestre\\Programa\u00E7\u00E3o Orientada a Objetos\\appExemplo1POO\\appExemplo1POO\\Model\\Pessoa.cs",
+              "RelativeDocumentMoniker": "appExemplo1POO\\Model\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\CEUB\\Desktop\\CEUB\\2\u00B0 Semestre\\Programa\u00E7\u00E3o Orientada a Objetos\\appExemplo1POO\\appExemplo1POO\\Model\\Pessoa.cs",
+              "RelativeToolTip": "appExemplo1POO\\Model\\Pessoa.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T23:47:46.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CEUB\\Desktop\\CEUB\\2\u00B0 Semestre\\Programa\u00E7\u00E3o Orientada a Objetos\\appExemplo1POO\\appExemplo1POO\\Program.cs",
+              "RelativeDocumentMoniker": "appExemplo1POO\\Program.cs",
+              "ToolTip": "C:\\Users\\CEUB\\Desktop\\CEUB\\2\u00B0 Semestre\\Programa\u00E7\u00E3o Orientada a Objetos\\appExemplo1POO\\appExemplo1POO\\Program.cs",
+              "RelativeToolTip": "appExemplo1POO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T23:37:26.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicioVetores\appExercicio2\bin\Debug\net8.0\appExercicio2.exe
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicioVetores\appExercicio2\bin\Debug\net8.0\appExercicio2.deps.json
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicioVetores\appExercicio2\bin\Debug\net8.0\appExercicio2.runtimeconfig.json
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicioVetores\appExercicio2\bin\Debug\net8.0\appExercicio2.dll
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicioVetores\appExercicio2\bin\Debug\net8.0\appExercicio2.pdb
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicioVetores\appExercicio2\obj\Debug\net8.0\appExercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicioVetores\appExercicio2\obj\Debug\net8.0\appExercicio2.AssemblyInfoInputs.cache
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicioVetores\appExercicio2\obj\Debug\net8.0\appExercicio2.AssemblyInfo.cs
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicioVetores\appExercicio2\obj\Debug\net8.0\appExercicio2.csproj.CoreCompileInputs.cache
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicioVetores\appExercicio2\obj\Debug\net8.0\appExercicio2.dll
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicioVetores\appExercicio2\obj\Debug\net8.0\refint\appExercicio2.dll
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicioVetores\appExercicio2\obj\Debug\net8.0\appExercicio2.pdb
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicioVetores\appExercicio2\obj\Debug\net8.0\appExercicio2.genruntimeconfig.cache
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicioVetores\appExercicio2\obj\Debug\net8.0\ref\appExercicio2.dll

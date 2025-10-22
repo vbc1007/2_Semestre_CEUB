@@ -1,0 +1,14 @@
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio6\appExercicio6\bin\Debug\net8.0\appExercicio6.exe
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio6\appExercicio6\bin\Debug\net8.0\appExercicio6.deps.json
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio6\appExercicio6\bin\Debug\net8.0\appExercicio6.runtimeconfig.json
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio6\appExercicio6\bin\Debug\net8.0\appExercicio6.dll
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio6\appExercicio6\bin\Debug\net8.0\appExercicio6.pdb
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio6\appExercicio6\obj\Debug\net8.0\appExercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio6\appExercicio6\obj\Debug\net8.0\appExercicio6.AssemblyInfoInputs.cache
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio6\appExercicio6\obj\Debug\net8.0\appExercicio6.AssemblyInfo.cs
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio6\appExercicio6\obj\Debug\net8.0\appExercicio6.csproj.CoreCompileInputs.cache
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio6\appExercicio6\obj\Debug\net8.0\appExercicio6.dll
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio6\appExercicio6\obj\Debug\net8.0\refint\appExercicio6.dll
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio6\appExercicio6\obj\Debug\net8.0\appExercicio6.pdb
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio6\appExercicio6\obj\Debug\net8.0\appExercicio6.genruntimeconfig.cache
+C:\Users\CEUB\Desktop\CEUB\2° Semestre\Programação Orientada a Objetos\appExercicio6\appExercicio6\obj\Debug\net8.0\ref\appExercicio6.dll

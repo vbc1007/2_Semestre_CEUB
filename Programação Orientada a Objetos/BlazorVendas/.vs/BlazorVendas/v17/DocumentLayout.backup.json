@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CEUB\\Desktop\\CEUB\\2\u00B0 Semestre\\Programa\u00E7\u00E3o Orientada a Objetos\\BlazorVendas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6F612F-286F-441B-AFB3-183E69C6CF17}|BlazorVendas\\BlazorVendas.csproj|c:\\users\\ceub\\desktop\\ceub\\2\u00B0 semestre\\programa\u00E7\u00E3o orientada a objetos\\blazorvendas\\blazorvendas\\model\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D6F612F-286F-441B-AFB3-183E69C6CF17}|BlazorVendas\\BlazorVendas.csproj|solutionrelative:blazorvendas\\model\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6F612F-286F-441B-AFB3-183E69C6CF17}|BlazorVendas\\BlazorVendas.csproj|c:\\users\\ceub\\desktop\\ceub\\2\u00B0 semestre\\programa\u00E7\u00E3o orientada a objetos\\blazorvendas\\blazorvendas\\model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D6F612F-286F-441B-AFB3-183E69C6CF17}|BlazorVendas\\BlazorVendas.csproj|solutionrelative:blazorvendas\\model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\CEUB\\Desktop\\CEUB\\2\u00B0 Semestre\\Programa\u00E7\u00E3o Orientada a Objetos\\BlazorVendas\\BlazorVendas\\Model\\Funcionario.cs",
+              "RelativeDocumentMoniker": "BlazorVendas\\Model\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\CEUB\\Desktop\\CEUB\\2\u00B0 Semestre\\Programa\u00E7\u00E3o Orientada a Objetos\\BlazorVendas\\BlazorVendas\\Model\\Funcionario.cs",
+              "RelativeToolTip": "BlazorVendas\\Model\\Funcionario.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAywDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T23:05:16.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\CEUB\\Desktop\\CEUB\\2\u00B0 Semestre\\Programa\u00E7\u00E3o Orientada a Objetos\\BlazorVendas\\BlazorVendas\\Model\\Cliente.cs",
+              "RelativeDocumentMoniker": "BlazorVendas\\Model\\Cliente.cs",
+              "ToolTip": "C:\\Users\\CEUB\\Desktop\\CEUB\\2\u00B0 Semestre\\Programa\u00E7\u00E3o Orientada a Objetos\\BlazorVendas\\BlazorVendas\\Model\\Cliente.cs",
+              "RelativeToolTip": "BlazorVendas\\Model\\Cliente.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:46:00.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
