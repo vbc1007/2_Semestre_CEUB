@@ -1,0 +1,117 @@
+﻿@using BlazorAppFuncionario.Model
+@page "/exemploPolimorfismo"
+<div class="container">
+    <div class="card mt-3">
+        <div class="card-header bg-dark text-white">
+            Exemplo Polimorfismo - Funcionário
+        </div>
+        <div class="card-body">
+            <div>
+                <label>Digite o nome do funcionário</label>
+                <InputText id="txtNome" class="form-control" @bind-bind-Value="NomeFuncionario"></InputText>
+            </div>
+            <div>
+                <label>Cargo</label>
+                <InputSelect id="cboCargo" class="form-select" @bind-Value="CargoSelecionado">
+                    <option value="Estagiario">Estágiario</option>
+                    <option value="Gerente">Gerente</option>
+                    <option value="Diretor">Diretor</option>
+                </InputSelect>
+            </div>
+            <div>
+                <label>Informe a quantidade de horas trabalhadas</label>
+                <InputNumber id="txtHoras" class="form-control" @bind-Value="HorasTrabalhadas"></InputNumber>
+            </div>
+        </div>
+        <div card-footer>
+            <div class="d-flex gap-2">
+                <button class="btn btn-dark" @onclick="CalcularSalario">Calcular Salário</button>
+                <button class="btn btn-dark" @onclick="CalcularBonificacao">Calcular Bonificação</button>
+                <button>Calcular Bonificação</button>
+            </div>
+        </div>
+    </div>
+
+    <div>
+        @if (!string.IsNullOrEmpty(NomeFuncionario))
+        {
+            <div>
+                <h3>Resultado do Cálculo</h3>
+                <p><strong>Nome:</strong>@NomeFuncionario</p>
+                <p><strong>Cargo:</strong>@CargoSelecionado</p>
+                <p><strong>Horas Trabalhadas:</strong>@HorasTrabalhadas</p>
+                @if (SalarioCalculado > 0)
+                {
+                    <p><strong>Salário Calculado:</strong>@SalarioCalculado</p>
+                }
+                @if (BonificacaoCalculada > 0)
+                {
+                    <p><strong>Salário Calculado:</strong>@SalarioCalculado</p>
+                    <p><strong>Bonificação Calculada:</strong>@BonificacaoCalculada</p>
+                }
+            </div>
+        }
+    </div>
+
+</div>
+
+@code 
+{
+    private string NomeFuncionario { get; set; } = string.Empty;
+    private int HorasTrabalhadas { get; set; }
+    private string CargoSelecionado { get; set; }
+
+    private double SalarioCalculado { get; set; }
+    private double BonificacaoCalculado { get; set; }
+
+    Funcionario funcionario = new Funcionario();
+
+    private void CriarFuncionario()
+    {
+        switch (CargoSelecionado)
+        {
+            case "Estagiario":
+                funcionario = new Estagiario();
+                break;
+            case "Diretor":
+                funcionario = new Diretor();
+                break;
+            case "Gerente":
+                funcionario = new Gerente();
+                break;
+        }
+        funcionario.Nome = NomeFuncionario;
+    }
+
+    private void CalcularSalario()
+    {
+        SalarioCalculado = 0;
+        BonificacaoCalculado = 0;
+        if(string.IsNullOrEmpty(CargoSelecionado) || HorasTrabalhadas <= 0)
+        {
+            return;
+        }
+
+        CriarFuncionario();
+        if(funcionario!= null)
+        {
+            SalarioCalculado = funcionario.RetornarSalario(HorasTrabalhadas);
+        }
+    }
+    private void CalcularBonificacao()
+    {
+        SalarioCalculado = 0;
+        BonificacaoCalculado = 0;
+        if (string.IsNullOrEmpty(CargoSelecionado) || HorasTrabalhadas <= 0)
+        {
+            return;
+        }
+
+        CriarFuncionario();
+        if (funcionario != null)
+        {
+            funcionario.RetornarSalario(HorasTrabalhadas);
+            BonificacaoCalculado = funcionario.RetornarBonificacao();
+        }
+    }
+}
