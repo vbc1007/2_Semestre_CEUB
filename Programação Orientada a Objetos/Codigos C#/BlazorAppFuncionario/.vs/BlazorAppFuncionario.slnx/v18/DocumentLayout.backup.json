@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CEUB\\Desktop\\CEUB\\2_Semestre_CEUB\\Programa\u00E7\u00E3o Orientada a Objetos\\BlazorAppFuncionario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68F2DA86-9F04-74D7-9C88-68B4A5AC5FE8}|BlazorAppFuncionario\\BlazorAppFuncionario.csproj|c:\\users\\ceub\\desktop\\ceub\\2_semestre_ceub\\programa\u00E7\u00E3o orientada a objetos\\blazorappfuncionario\\blazorappfuncionario\\components\\pages\\exemplopolimorfismo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68F2DA86-9F04-74D7-9C88-68B4A5AC5FE8}|BlazorAppFuncionario\\BlazorAppFuncionario.csproj|solutionrelative:blazorappfuncionario\\components\\pages\\exemplopolimorfismo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F2DA86-9F04-74D7-9C88-68B4A5AC5FE8}|BlazorAppFuncionario\\BlazorAppFuncionario.csproj|c:\\users\\ceub\\desktop\\ceub\\2_semestre_ceub\\programa\u00E7\u00E3o orientada a objetos\\blazorappfuncionario\\blazorappfuncionario\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68F2DA86-9F04-74D7-9C88-68B4A5AC5FE8}|BlazorAppFuncionario\\BlazorAppFuncionario.csproj|solutionrelative:blazorappfuncionario\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F2DA86-9F04-74D7-9C88-68B4A5AC5FE8}|BlazorAppFuncionario\\BlazorAppFuncionario.csproj|c:\\users\\ceub\\desktop\\ceub\\2_semestre_ceub\\programa\u00E7\u00E3o orientada a objetos\\blazorappfuncionario\\blazorappfuncionario\\model\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F2DA86-9F04-74D7-9C88-68B4A5AC5FE8}|BlazorAppFuncionario\\BlazorAppFuncionario.csproj|solutionrelative:blazorappfuncionario\\model\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F2DA86-9F04-74D7-9C88-68B4A5AC5FE8}|BlazorAppFuncionario\\BlazorAppFuncionario.csproj|c:\\users\\ceub\\desktop\\ceub\\2_semestre_ceub\\programa\u00E7\u00E3o orientada a objetos\\blazorappfuncionario\\blazorappfuncionario\\model\\estagiario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F2DA86-9F04-74D7-9C88-68B4A5AC5FE8}|BlazorAppFuncionario\\BlazorAppFuncionario.csproj|solutionrelative:blazorappfuncionario\\model\\estagiario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F2DA86-9F04-74D7-9C88-68B4A5AC5FE8}|BlazorAppFuncionario\\BlazorAppFuncionario.csproj|c:\\users\\ceub\\desktop\\ceub\\2_semestre_ceub\\programa\u00E7\u00E3o orientada a objetos\\blazorappfuncionario\\blazorappfuncionario\\model\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F2DA86-9F04-74D7-9C88-68B4A5AC5FE8}|BlazorAppFuncionario\\BlazorAppFuncionario.csproj|solutionrelative:blazorappfuncionario\\model\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F2DA86-9F04-74D7-9C88-68B4A5AC5FE8}|BlazorAppFuncionario\\BlazorAppFuncionario.csproj|c:\\users\\ceub\\desktop\\ceub\\2_semestre_ceub\\programa\u00E7\u00E3o orientada a objetos\\blazorappfuncionario\\blazorappfuncionario\\model\\diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F2DA86-9F04-74D7-9C88-68B4A5AC5FE8}|BlazorAppFuncionario\\BlazorAppFuncionario.csproj|solutionrelative:blazorappfuncionario\\model\\diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\CEUB\\Desktop\\CEUB\\2_Semestre_CEUB\\Programa\u00E7\u00E3o Orientada a Objetos\\BlazorAppFuncionario\\BlazorAppFuncionario\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorAppFuncionario\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\CEUB\\Desktop\\CEUB\\2_Semestre_CEUB\\Programa\u00E7\u00E3o Orientada a Objetos\\BlazorAppFuncionario\\BlazorAppFuncionario\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorAppFuncionario\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T00:41:24.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExemploPolimorfismo.razor",
+              "DocumentMoniker": "C:\\Users\\CEUB\\Desktop\\CEUB\\2_Semestre_CEUB\\Programa\u00E7\u00E3o Orientada a Objetos\\BlazorAppFuncionario\\BlazorAppFuncionario\\Components\\Pages\\ExemploPolimorfismo.razor",
+              "RelativeDocumentMoniker": "BlazorAppFuncionario\\Components\\Pages\\ExemploPolimorfismo.razor",
+              "ToolTip": "C:\\Users\\CEUB\\Desktop\\CEUB\\2_Semestre_CEUB\\Programa\u00E7\u00E3o Orientada a Objetos\\BlazorAppFuncionario\\BlazorAppFuncionario\\Components\\Pages\\ExemploPolimorfismo.razor",
+              "RelativeToolTip": "BlazorAppFuncionario\\Components\\Pages\\ExemploPolimorfismo.razor",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-27T23:20:22.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "C:\\Users\\CEUB\\Desktop\\CEUB\\2_Semestre_CEUB\\Programa\u00E7\u00E3o Orientada a Objetos\\BlazorAppFuncionario\\BlazorAppFuncionario\\Model\\Gerente.cs",
+              "RelativeDocumentMoniker": "BlazorAppFuncionario\\Model\\Gerente.cs",
+              "ToolTip": "C:\\Users\\CEUB\\Desktop\\CEUB\\2_Semestre_CEUB\\Programa\u00E7\u00E3o Orientada a Objetos\\BlazorAppFuncionario\\BlazorAppFuncionario\\Model\\Gerente.cs",
+              "RelativeToolTip": "BlazorAppFuncionario\\Model\\Gerente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T22:48:56.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Estagiario.cs",
+              "DocumentMoniker": "C:\\Users\\CEUB\\Desktop\\CEUB\\2_Semestre_CEUB\\Programa\u00E7\u00E3o Orientada a Objetos\\BlazorAppFuncionario\\BlazorAppFuncionario\\Model\\Estagiario.cs",
+              "RelativeDocumentMoniker": "BlazorAppFuncionario\\Model\\Estagiario.cs",
+              "ToolTip": "C:\\Users\\CEUB\\Desktop\\CEUB\\2_Semestre_CEUB\\Programa\u00E7\u00E3o Orientada a Objetos\\BlazorAppFuncionario\\BlazorAppFuncionario\\Model\\Estagiario.cs",
+              "RelativeToolTip": "BlazorAppFuncionario\\Model\\Estagiario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T22:46:16.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\CEUB\\Desktop\\CEUB\\2_Semestre_CEUB\\Programa\u00E7\u00E3o Orientada a Objetos\\BlazorAppFuncionario\\BlazorAppFuncionario\\Model\\Funcionario.cs",
+              "RelativeDocumentMoniker": "BlazorAppFuncionario\\Model\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\CEUB\\Desktop\\CEUB\\2_Semestre_CEUB\\Programa\u00E7\u00E3o Orientada a Objetos\\BlazorAppFuncionario\\BlazorAppFuncionario\\Model\\Funcionario.cs",
+              "RelativeToolTip": "BlazorAppFuncionario\\Model\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T22:43:37.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Diretor.cs",
+              "DocumentMoniker": "C:\\Users\\CEUB\\Desktop\\CEUB\\2_Semestre_CEUB\\Programa\u00E7\u00E3o Orientada a Objetos\\BlazorAppFuncionario\\BlazorAppFuncionario\\Model\\Diretor.cs",
+              "RelativeDocumentMoniker": "BlazorAppFuncionario\\Model\\Diretor.cs",
+              "ToolTip": "C:\\Users\\CEUB\\Desktop\\CEUB\\2_Semestre_CEUB\\Programa\u00E7\u00E3o Orientada a Objetos\\BlazorAppFuncionario\\BlazorAppFuncionario\\Model\\Diretor.cs",
+              "RelativeToolTip": "BlazorAppFuncionario\\Model\\Diretor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T22:43:09.812Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
